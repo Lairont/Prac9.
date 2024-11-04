@@ -44,7 +44,7 @@ namespace ConsoleApp111
 
 
             //Задача 3.Вывести элементы одномерного массива, заполненного с клавиатуры ,в обратном порядке.
-            //const int n = 6;
+            //const int n = 5;
             //int[] omas = new int[n];
             //Random rnd = new Random();
             //for (int i = 0; i < omas.Length; i++)
